@@ -13,11 +13,8 @@ provider "aws" {
   profile                  = "terraform-user"
 }
 
-resource "aws_instance "xyz" {
+resource "aws_instance" "xyz" {
     ami= ami-0d0ad8bb301edb745
     instance_type= "t2.micro"
   }
 
-resource "aws_instance" {
-  
-}  
