@@ -18,4 +18,6 @@ resource "aws_instance "xyz" {
     instance_type= "t2.micro"
   }
 
+resourcheck "name" {
   
+}  
