@@ -18,6 +18,6 @@ resource "aws_instance "xyz" {
     instance_type= "t2.micro"
   }
 
-resource """ {
+resource "aws_instance" {
   
 }  
