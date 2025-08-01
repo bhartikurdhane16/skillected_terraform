@@ -22,6 +22,6 @@ provider "aws" {
 }
 
 # resource block: here we mention resources which wanted to create
-#ex. ecr inst
+#ex. ecr instance.check 
 
 
