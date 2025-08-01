@@ -1,7 +1,7 @@
 # skillected_terraform
 Terraform script/code:
    Steps:
-      1. terraform provider : it will intiialzed terraform configuration, plugins, 
+      1. terraform block : it will intiialzed terraform configuration, plugins, 
       2. Provider block /User profile : AWS configuration initilized,    
              OR Role
         create role -----> assigin permission to role----->attach role terraform server.    
