@@ -25,7 +25,7 @@ provider "aws" {
 #ex. ec2 instance,
 
 resource "aws_instance" "my_server" {
-  ami=   ami-0521bc4c70257a054     # operating system image
+  ami=   ami-0521bc4c70257a054"     # operating system image
   instance_type = "t2.micro"       #server type
   key_name = "terraform_key"        #note: the key should be present in desire loaction
 
