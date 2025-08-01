@@ -17,7 +17,7 @@ provider "aws" {
 resource "aws_instance" "my_ec2" {
   ami           = "ami-0f58b397bc5c1f2e8"   # Ubuntu 22.04 LTS in ap-south-1
   instance_type = "t2.micro"
-  key_name      = "my-key"  # Replace with your actual key pair name
+  key_name      = "server1_key"  # Replace with your actual key pair name
 
   tags = {
     Name = "SimpleEC2"
