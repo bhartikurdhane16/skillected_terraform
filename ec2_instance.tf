@@ -21,6 +21,7 @@ provider "aws" {
   profile                  = "terraform-user"
 }
 
-# resource block: here we mention resources 
+# resource block: here we mention resources which wanted to create
+#ex. ecr inst
 
 
