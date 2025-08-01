@@ -1,4 +1,6 @@
-#terraform block
+#terraform block : initialzed the terraform configurations.check "" {
+  
+}
 terraform {
   required_providers {
     aws = {
