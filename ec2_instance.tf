@@ -21,6 +21,6 @@ provider "aws" {
   profile                  = "terraform-user"
 }
 
-
+# resource block: 
 
 
