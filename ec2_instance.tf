@@ -30,7 +30,7 @@ resource "aws_instance" "my_server" {
   key_name = "terraform_key"
 
   tags = {
-    Name        = "MyBucket"
+    Name        = "mytestserver"
     Environment = "Dev"
   }
   
