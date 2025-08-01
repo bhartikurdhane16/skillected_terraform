@@ -13,7 +13,8 @@ terraform {
 #user profile, keys other settings.  
 
 provider "aws" {
-  # Configuration options
+  region: 
+
 }
 
 
