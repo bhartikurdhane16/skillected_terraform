@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "aws" {
-   region = "us-east-2" 
+   region = "ap-south-1" 
   shared_config_files      = ["/home/ubuntu/.aws/config"]          #iamuser profile detalis 
   shared_credentials_files = ["/home/ubuntu/.aws/credentials"]
   profile                  = "terraform-user"
