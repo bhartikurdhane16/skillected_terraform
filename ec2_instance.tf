@@ -8,6 +8,8 @@ terraform {
   }
 }
 
+
+#Provider b
 provider "aws" {
   # Configuration options
 }
