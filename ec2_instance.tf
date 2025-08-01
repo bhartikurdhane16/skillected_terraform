@@ -16,7 +16,7 @@ terraform {
 
 provider "aws" {
   region = "ap-south-1"               #region where want to create instance
-  shared_config_files      = ["/home/ubuntu/.aws/config"]          #iamuser profile detalis 
+  shared_config_files      = ["/root/.aws/config"]          #iamuser profile detalis 
   shared_credentials_files = ["/home/ubuntu/.aws/credentials"]
   profile                  = "terraform_user"
 }
