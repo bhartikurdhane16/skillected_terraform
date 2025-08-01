@@ -13,7 +13,7 @@ terraform {
 #user profile, keys other settings.  
 
 provider "aws" {
-  region: ""
+  region: "ap-south-1"
 
 }
 
