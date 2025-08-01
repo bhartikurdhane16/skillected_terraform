@@ -26,7 +26,7 @@ provider "aws" {
 
 resource "aws_instance" "my_server" {
   ami=   ami-0521bc4c70257a054 
-  instance_instance_type =   
+  instance_type =   
   
 }
 
