@@ -25,7 +25,8 @@ provider "aws" {
 #ex. ec2 instance,
 
 resource "aws_instance" "my_server" {
-  ami=   
+  ami=   ami-0521bc4c70257a054 
+    
   
 }
 
