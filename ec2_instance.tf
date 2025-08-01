@@ -12,8 +12,6 @@ terraform {
 #Provider block : t initialized the api conncetion with pcloud provider.check "name" {
 #user profile, keys other settings.  
 
-provider "aws" {
-  region: "ap-south-1"
 
 
 provider "aws" {
@@ -22,7 +20,7 @@ provider "aws" {
   shared_credentials_files = ["/home/ubuntu/.aws/credentials"]
   profile                  = "terraform_user"
 }
-}
+
 
 
 
