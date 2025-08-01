@@ -9,7 +9,9 @@ terraform {
 }
 
 
-#Provider block : t initialized the api conncetion, region, 
+#Provider block : t initialized the api conncetion with pcloud provider.check "name" {
+  
+
 provider "aws" {
   # Configuration options
 }
