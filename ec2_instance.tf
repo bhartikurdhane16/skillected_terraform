@@ -31,7 +31,7 @@ resource "aws_instance" "my_server" {
 
   tags = {
     Name        = "mytestserver"
-    Environment = "Dev"
+    
   }
   
 }
