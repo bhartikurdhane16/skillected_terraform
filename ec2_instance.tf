@@ -24,7 +24,8 @@ provider "aws" {
 # Resource block: here we mention resources which wanted to create
 #ex. ec2 instance,
 
-resource "aws_instance" "" {
+resource "aws_instance" "my_server" {
+    
   
 }
 
