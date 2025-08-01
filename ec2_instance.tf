@@ -25,7 +25,7 @@ provider "aws" {
 #ex. ec2 instance,
 
 resource "aws_instance" "my_server" {
-  ami=   ami-0521bc4c70257a054 
+  ami=   ami-0521bc4c70257a054     # Ami
   instance_type = "t2.micro"
   key_name = "terraform_key"
 
