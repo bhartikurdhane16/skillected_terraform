@@ -9,7 +9,7 @@ terraform {
 }
 
 
-#Provider b
+#Provider block : 
 provider "aws" {
   # Configuration options
 }
