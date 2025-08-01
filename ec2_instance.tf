@@ -10,7 +10,7 @@ terraform {
 
 
 #Provider block : t initialized the api conncetion with pcloud provider.check "name" {
-#user profile, keyes,  
+#user profile, keys other settings.  
 
 provider "aws" {
   # Configuration options
