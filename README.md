@@ -15,7 +15,8 @@
          #aws configure   ---put keys
          /root/.aws/config   ------------put user name
          /root/.aws/credentials --------check keys
-   7. Write script : 
+   7. Write script : instance creation.
+   
 
 
                        
