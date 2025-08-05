@@ -4,7 +4,7 @@
    2. colne github repo in vs code/local system 
           - get ssh conecction vs code & github repo.
               #ssh-keygen -----put public key on github repo ( settings --->deploy keys)
-              #git clone 
+              #git clone <>
 
 
 
