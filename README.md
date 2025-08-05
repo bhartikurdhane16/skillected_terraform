@@ -9,7 +9,7 @@
        - terraform installation 
    4. ssh conection of terraform server and github repo.
    5. clone github repo on terraform master.
-    
+   6. user profile :  
    6. write script
 
 
