@@ -19,8 +19,8 @@
    8 push script to remote repo ( #git push origin main)
    9. pull on terraform maser ( #git pull origin main)
    10. Apply terraform lifecycle.
-         #terraform init  -----------it initialized terraform 
-         #terraform plan
+         #terraform init  -----------it initialized terraform , plugins, backend configuration
+         #terraform plan ------------
          #terrform apply 
 
 
