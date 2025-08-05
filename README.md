@@ -12,7 +12,9 @@
    6. configure AWS with terraform
         - user with EC2 permission / full access.
         -access key and screte access key.
-          
+         #aws configure   ---put keys
+         
+
    6. write script
 
 
