@@ -7,7 +7,7 @@
               #git clone <http url of repo>
    3. launch server ( terraform master)
        - terraform installation 
-   4. ssh conecction of                
+   4. ssh conecction of terraform server and github repo                
 
 
 
