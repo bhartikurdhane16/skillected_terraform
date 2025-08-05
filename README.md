@@ -1,7 +1,7 @@
 #terrform install setup
 
    1. github repo
-   2. colne github repo in vs code
+   2. colne github repo in vs code/local system 
 
 
 
