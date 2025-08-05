@@ -13,7 +13,7 @@
         - user with EC2 permission / full access.
         -access key and screte access key.
          #aws configure   ---put keys
-         /root/.aws/config   ------------key check
+         /root/.aws/config   ------------put user name
          /root/.aws/credentials 
 
 
