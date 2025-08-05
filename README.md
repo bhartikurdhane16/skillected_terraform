@@ -16,7 +16,7 @@
          /root/.aws/config   ------------put user name
          /root/.aws/credentials --------check keys
    7. Write script : instance creation.
-   8 push script 
+   8 push script to remote repo ( #)
 
 
                        
