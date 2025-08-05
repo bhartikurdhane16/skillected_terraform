@@ -20,7 +20,7 @@
    9. pull on terraform maser ( #git pull origin main)
    10. Apply terraform lifecycle.
          #terraform init  -----------it initialized terraform , plugins, backend configuration
-         #terraform plan ------------
+         #terraform plan ------------terraform pla
          #terrform apply 
 
 
