@@ -10,7 +10,7 @@
    4. ssh conection of terraform server and github repo.
    5. clone github repo on terraform master.
    6. configure AWS with terraform
-        - user   
+        - user with EC2 permission /   
    6. write script
 
 
