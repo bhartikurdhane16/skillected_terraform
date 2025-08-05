@@ -21,7 +21,7 @@
    10. Apply terraform lifecycle.
          #terraform init  -----------it initialized terraform , plugins, backend configuration
          #terraform plan ------------terraform plan resources as per script
-         #terrform apply  -------------a 
+         #terrform apply  -------------resources create on cloud platform. 
 
 
 
