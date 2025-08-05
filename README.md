@@ -13,8 +13,8 @@
         - user with EC2 permission / full access.
         -access key and screte access key.
          #aws configure   ---put keys
-         /root/.aws/config   --------
-         /root/.aws/credentials
+         /root/.aws/config   ------------key check
+         /root/.aws/credentials 
 
 
    6. write script
