@@ -21,7 +21,7 @@
    10. Apply terraform lifecycle.
          #terraform init
          #terraform plan
-         
+         #terrfo
 
 
 
