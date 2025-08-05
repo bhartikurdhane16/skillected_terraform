@@ -5,7 +5,8 @@
           - get ssh conecction vs code & github repo.
               #ssh-keygen -----put public key on github repo ( settings --->deploy keys)
               #git clone <http url of repo>
-   3. launch server ( terraform master)           
+   3. launch server ( terraform master)
+       - terraform installation            
 
 
 
