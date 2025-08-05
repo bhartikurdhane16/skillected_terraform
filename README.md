@@ -18,7 +18,11 @@
    7. Write script : instance creation.
    8 push script to remote repo ( #git push origin main)
    9. pull on terraform maser ( #git pull origin main)
-     
+   10. Apply terraform lifecycle.
+         #terraform init
+         #terraform plan
+         
+
 
 
                        
