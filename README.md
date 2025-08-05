@@ -1,11 +1,12 @@
 #terrform install setup
 
    1. github repo
-   2. colne github repo in vs code/local system 
+   2. clone github repo in vs code/local system 
           - get ssh conecction vs code & github repo.
               #ssh-keygen -----put public key on github repo ( settings --->deploy keys)
               #git clone <http url of repo>
               
+
 
 
 
