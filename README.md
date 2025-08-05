@@ -24,16 +24,7 @@
          #terrform apply  -------------resources create on cloud platform. 
 
 
-
-                       
-
-
-
-
-
-
-
-
+                     
 # skillected_terraform
 Terraform script/code:
    Steps:
