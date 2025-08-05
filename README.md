@@ -1,6 +1,7 @@
 #terrform install setup
 
-   1. require
+   1. github repo
+   2. 
 
 
 
