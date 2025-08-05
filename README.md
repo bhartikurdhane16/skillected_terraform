@@ -14,7 +14,8 @@
         -access key and screte access key.
          #aws configure   ---put keys
          /root/.aws/config"
-         
+         "/root/.aws/credentials
+
 
    6. write script
 
