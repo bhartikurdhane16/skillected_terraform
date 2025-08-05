@@ -2,7 +2,7 @@
 
    1. github repo
    2. colne github repo in vs code/local system 
-          - get ssh conecction vs code 
+          - get ssh conecction vs code & github repo.
 
 
 
